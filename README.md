@@ -10,6 +10,7 @@ __Mysql Table 조회 query__
 ~~~~sql
 SELECT * FROM (TABLE name);
 ~~~~
+<br><br>
 
 __Mysql Table 조건있는 조회 query__
 ***
@@ -17,6 +18,7 @@ __Mysql Table 조건있는 조회 query__
 ~~~~sql
 SELECT * FROM (TABLE name) where (column name) = (Condition);
 ~~~~
+<br><br>
 
 __Mysql Table 조건있는 조회 여러개 query__
 ***
