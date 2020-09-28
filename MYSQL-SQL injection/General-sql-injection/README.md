@@ -34,5 +34,4 @@ SELECT * FROM member userId = '' or 1=1 --'' and userPw = '';
 
 ->1=1 or 1 참이 되는 값
 ~~~~
-
 <br><br>
