@@ -27,11 +27,11 @@ __Mysql Login Sql injection__
 
 ' or 1=1 --'
 ' or 1 #'
-'
+
 입력 결과
 
 SELECT * FROM member userId = '' or 1=1 --'' and userPw = '';
 
--> 1=1 or 1 참이 되는 값
+-> 1=1 or 1 참이 되는 값을 주입하여 USER 리스트를 출력하게함
 ~~~~
 <br><br>
