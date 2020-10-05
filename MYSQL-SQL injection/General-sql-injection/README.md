@@ -1,8 +1,8 @@
 # GENERAL SQL injection
-<br><br><br><br>
+<br><br><br>
 > ( ) <- 강조 ( ) 기호는 제외
 
-<br><br><br><br>
+<br><br>
 
 __Mysql 대표적인 login query__
 ***
