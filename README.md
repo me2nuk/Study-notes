@@ -1,6 +1,6 @@
 # study notes
 
-<br><br><br><br>
+<br><br><br>
 |다루는 언어|
 |:---|
 | C | 
