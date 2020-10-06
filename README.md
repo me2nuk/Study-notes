@@ -1,4 +1,4 @@
-# study notes
+# Study Notes
 
 <br><br><br>
 |다루는 언어|
