@@ -1,4 +1,4 @@
-#MYSQL QUERY or SQL injection
+# MYSQL QUERY or SQL injection
 
 ## mysql-query 
 
