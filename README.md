@@ -14,6 +14,8 @@
 | JS-Jquery |
 | db - Mysql |
 | db - MariaDB |
+| 한국어 |
+| 한영어 |
 
 <br><br>
 
