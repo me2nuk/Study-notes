@@ -303,7 +303,7 @@ print(AdminPassword)
 <br>
 
 * * *
-range 로 돌면서 사용한 chr 함수이다. 
+for range 로 돌면서 사용한 chr 함수이다. 
 <br><br>
 간단하게 숫자를 아스키코드처럼 여겨 문자열로 변환
 
