@@ -30,4 +30,4 @@ indexOf 로 자신이 원하는 문자열을 찾은다음 console.log 로 출력
 
 만약에 자신이 get 가 아닌 post 로 body 를 넘겨야될 결우 form:{'data key name':'data key name in value'}
 
-이런식으로 get({})안에 넣어서 전송하면은 된다.
+이런식으로 get({url:url,form:{'data':'value'}})안에 넣어서 전송하면은 된다.
