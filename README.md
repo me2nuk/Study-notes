@@ -22,6 +22,11 @@
 __각 언어들의 문법, 시큐리티 코딩, 해킹 기법 쿼리 등을 작성하고 각 언어들마다 요약하여 정리했습니다.__
 
 * * *
++ [mysql query](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-Query)
+
++ [mysql blind sql injection](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-SQL%20injection/blind-sql-injection)
+
++ [mysql simple sql injection](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-SQL%20injection/simple-sql-injection)
 
 만약에 잘못된 구문 또는 오타가 있다면 연락 부탁드립니다.
 __kimtong6451@gmail.com__
