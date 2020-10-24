@@ -29,7 +29,7 @@ __각 언어들의 문법, 시큐리티 코딩, 해킹 기법 쿼리 등을 작�
 
 + [mysql query](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-Query)
 
-+ [mysql blind sql injection](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-SQL%20injection/blind-sql-injection)
++ [mysql blind sql injection](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-SQL-injection/blind-sql-injection)
 
 + [mysql simple sql injection](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-SQL%20injection/simple-sql-injection)
 
