@@ -22,6 +22,11 @@
 __각 언어들의 문법, 시큐리티 코딩, 해킹 기법 쿼리 등을 작성하고 각 언어들마다 요약하여 정리했습니다.__
 
 * * *
+
++ [python](https://github.com/kimminwyk/Study-notes/tree/master/python)
+
++ [node.js request module](https://github.com/kimminwyk/Study-notes/tree/master/Node.js/request)
+
 + [mysql query](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-Query)
 
 + [mysql blind sql injection](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-SQL%20injection/blind-sql-injection)
