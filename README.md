@@ -20,11 +20,11 @@
 <br><br><br>
 다루는 언어
 
-#### C, Js, php , css ,Html , Python , Node.js , Python-flask , Js-Jquery
+### C, Js, php , css ,Html , Python , Node.js , Python-flask , Js-Jquery
 
 다루는 db 
 
-#### Mysql , maria , mongo
+### Mysql , maria , mongo
 <br><br>
 ## python
 + [python](https://github.com/kimminwyk/Study-notes/tree/master/Python)
