@@ -23,7 +23,7 @@ __각 언어들의 문법, 시큐리티 코딩, 해킹 기법 쿼리 등을 작�
 
 * * *
 
-+ [python](https://github.com/kimminwyk/Study-notes/tree/master/python)
++ [python](https://github.com/kimminwyk/Study-notes/tree/master/Python)
 
 + [node.js request module](https://github.com/kimminwyk/Study-notes/tree/master/Node.js/request)
 
