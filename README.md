@@ -43,7 +43,7 @@
 
 + [mysql blind sql injection](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-SQL-injection/blind-sql-injection)
 
-+ [mysql simple sql injection](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-SQL%20injection/simple-sql-injection)
++ [mysql simple sql injection](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-SQL-injection/simple-sql-injection)
 
 * * *
 
