@@ -2,7 +2,7 @@
 
 ### blind sql injection 이란?
 
-> 임의의 sql 구문을 받을어 데이터를 열람하는 공격이다.
+> 임의의 sql 구문을 만들어 데이터를 열람하는 공격이다.
 
 mysql 같은경우 substr , mid , length 같은 함수들로
 
