@@ -26,4 +26,10 @@ SELECT * FROM member WHERE id='' and pw='' or 1=1 and sleep(1);--'';
 # 시간지연이 일어나면서 참이라는 값을 얻게 된다.
 ```
 
+하지만 sleep() 같은 시간지연 함수가 필터링 되느 경우가 있다.
 
+이런경우에는 sleep() 말고 benchmark() 이나 
+
+```sql
+SELECT table_name from information_schema.tables A 
+```
