@@ -53,7 +53,12 @@ SELECT * FROM member WHERE id='' or 1=1 and (SELECT count(*) FROM information_sc
 
 ### sleep(10);
 
-> sleep()는 
+__sleep() 함수는 사용할시에 시간지연을 시킨다.__
 
 sleep() 함수는 정속적으로 지연되면 True 
 그렇지 않다면 False 를 반환한다.
+
+### benchmark();
+
+__benchmark() 함수는 특정 연산 또는 구문을 반복시킨다.__
+
