@@ -5,7 +5,11 @@
 node.js 로 blind sql injection 
 구현하기
 
-[python_script](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-SQL%20injection/blind-sql-injection/blind-sql-injection-python-script.md "python script")
+<br>
+ 
+node.js 말고도 python script 또는 구조를 알고싶다면 밑의 링크 참고하세요
+
+[blind sql injection python script](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-SQL%20injection/blind-sql-injection/blind-sql-injection-python-script.md "python script")
 
 
 ### request module
