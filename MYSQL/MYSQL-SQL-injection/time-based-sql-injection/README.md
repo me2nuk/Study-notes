@@ -55,6 +55,8 @@ SELECT * FROM member WHERE id='' or 1=1 and (SELECT count(*) FROM information_sc
 
 __sleep() 함수는 사용할시에 시간지연을 시킨다.__
 
+sleep(지연시키고싶은 시간(초 단위))
+
 sleep() 함수는 정속적으로 지연되면 True 
 그렇지 않다면 False 를 반환한다.
 
@@ -62,3 +64,33 @@ sleep() 함수는 정속적으로 지연되면 True
 
 __benchmark() 함수는 특정 연산 또는 구문을 반복시킨다.__
 
+menchmark(반복할 개수, 연산)
+
+이런식으로 인자를 넣어서 자신이 원하는 만큼만 반복을 시킨다음
+
+반복하는 과정에서 시간지연이 생기게 된다.
+
+
+### information_schema.columns
+
+해당 쿼리는 수많은 컬럼들을 COUNT(*) 로 한번에 불러오다보니깐
+
+불러오는 과정에서 시간지연이 생기게 되버린다.
+
+![information image](./image/mysql-informaction.png)
+
+밑의 1 row in set (42.55 sec) 가 나온것을 확인할수있다.
+
+즉 count(*)로 합치면서 information_schema.columns A 와 B 를 SELECT 하면서
+
+약 42 초가 걸리게 된다.
+
+
+
+### 마무리
+
+핵심은 저런 함수만 사용이 가능하다는것이 아닌
+
+Time based sql injection 인 만큼
+
+시간 지연 쿼리만 잘 짜서 요청을 하면 된다.
