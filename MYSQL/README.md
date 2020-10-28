@@ -29,8 +29,12 @@ db.tablename.find()
 use databasesname;
 ```
 
+mysql 이나 nosql 를 배우면서 자주 보게되는 쿼리일것이다.
 
-|file name|file 내용|
-|:---|:---|
-|mysql-query|mysql query list|
-|mysql-sql injection | sql injection query or payload list |
+* * *
+
+밑의 링크에 있는 문서를 참고하면 좋다.
+
++ [mysql query](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-Query)
+
++ [mysql sql injection](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-SQL-injection)
