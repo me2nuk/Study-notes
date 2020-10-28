@@ -1,6 +1,6 @@
-# time based blind sqli
+# Time based blind sqli
 
-#### time based blind sqli 란
+#### Time based blind sqli 란
  
 > blind sqli 를 시도해도 참인이 거짓인지 반환을 받지 못할때 시간지연 함수로 참과 거짓의 값을 가져온다.
 
@@ -89,8 +89,8 @@ menchmark(반복할 개수, 연산)
 
 ### 마무리
 
-핵심은 저런 함수만 사용이 가능하다는것이 아닌
+핵심은 저런 함수만 사용이 가능하는것이 아닌
 
 Time based sql injection 인 만큼
 
-시간 지연 쿼리만 잘 짜서 요청을 하면 된다.
+시간 지연 가능한 쿼리만 잘 짜서 요청을 하면 된다.
