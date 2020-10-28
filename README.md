@@ -37,13 +37,13 @@
 
 * * *
 
-## mysql
+## Mysql
 
 + [mysql query](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-Query)
 
 * * *
 
-## sql injection
+## Sql injection
 
 + [mysql blind sql injection](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-SQL-injection/time-based-sql-injection)
 
