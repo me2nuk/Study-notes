@@ -37,6 +37,11 @@ for length in range(1,100):
         break
 ```
 
+위의 python script 말고도 보고싶으면 밑의 링크에서 참고하면 좋다.
+
++ [blind sqli python script](https://github.com/kimminwyk/Study-notes/blob/master/MYSQL/MYSQL-SQL-injection/blind-sql-injection/blind-sql-injection-python-script.md)
+
+
 다음과 같은 예로 data 라는 변수에 dict 형식으로 
 
 blind sqli 에 사용되는 쿼리를 만들어서 
@@ -68,3 +73,4 @@ SELECT * FROM member WHERE id='admin' and length(pw)=[1~100]
 blind sqli 에서 length 말고도 다양한 쿼리가 존재한다
 
 substr , left , ascii , mid 등등 다양한 문자열 , 길이를 브루트포싱하기위해 사용되는 함수가 많다.
+
