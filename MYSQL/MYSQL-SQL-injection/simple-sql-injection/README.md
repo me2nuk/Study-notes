@@ -46,10 +46,15 @@ SELECT * FROM member userId = '' or 1=1 --'' and userPw = '';
 예를 들자면
 ```sql
 SELECT * FROM member id='' and pw='';
+
 SELECT * FROM member id="" and pw="";
+
 SELECT * FROM member id=('') and pw=('');
+
 SELECT * FROM member (id='') and (pw='');
+
 SELECT * FROM member id=("") and pw=("");
+
 SELECT * FROM member (id="") and (pw="");
 ```
 
@@ -73,6 +78,7 @@ SELECT * FROM member id="" and pw="";
 
 ' or 1=1 --'
 SELECT * FROM member id="' or 1=1 --'" and pw="";
+
 " or 1=1 --"
 SELECT * FROM member id="" or 1=1 --"" and pw="";
 ```
