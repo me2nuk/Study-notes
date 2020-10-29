@@ -7,9 +7,11 @@ node.js 로 blind sql injection
 
 <br>
  
-node.js 말고도 python script 또는 구조를 알고싶다면 밑의 링크 참고하세요
+node.js 은 구현하면 저렇게 되지만 
 
-[blind sql injection python script](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-SQL%20injection/blind-sql-injection/blind-sql-injection-python-script.md "python script")
+자세한 blind sql injection query는 밑의 링크 참고
+
+[blind sql injection python script](https://github.com/kimminwyk/Study-notes/blob/master/MYSQL/MYSQL-SQL-injection/blind-sql-injection/blind-sql-injection-python-script.md "python script")
 
 
 ### request module
@@ -33,8 +35,9 @@ const Webrequest = function(url, data = null, headers = null, methodCheck = 'get
         });
     }
 }
-
-Webrequest('https://www.google.com', methodCheck = 'post');
+for(var i = 0; i < 10; i++){
+    Webrequest('https://www.google.com', methodCheck = 'post');
+}
 ```
 
 ### axios module
@@ -78,3 +81,13 @@ for (var j = 0; j < 10; j++) {
 만약에 login 같은 무언가를 감지하고싶다면 Webrequest 함수를 응용하여 if 같이 조건문을 사용한다면 
 
 제대로 사용할 수 있다.
+
+### 마무리
+
+node.js 랑 python 이랑 문법과 속도적인면에서 차이는 나지만
+
+blind sql injection 전송하는 쿼리 방식은 크게 다르지 않다.
+
+node.js 는 속도가 빨라서 사용할 줄만 안다면 천상의 속도를 느낄 수 있다.
+
+![gooooooooo image](./image/goooooo.jpg)
