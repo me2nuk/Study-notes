@@ -64,6 +64,8 @@
 
 + [Problem gremlin](https://github.com/kimminwyk/Study-notes/tree/master/los-rubiya-kr-problem-solving/1-gremlin)
 
++ [Problem Cobole](https://github.com/kimminwyk/Study-notes/tree/master/los-rubiya-kr-problem-solving/2-cobolt)
+
 * * *
 
 __각 언어들의 문법, 시큐리티 코딩, 해킹 기법, 쿼리 등을 작성하고 각 언어들마다 요약하여 정리했습니다.__
