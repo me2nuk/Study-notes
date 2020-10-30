@@ -25,12 +25,11 @@
 다루는 db 
 
 ### Mysql , maria , mongo
-<br>
-
-* * *
 
 <br>
+
 ## python
+
 + [python](https://github.com/kimminwyk/Study-notes/tree/master/Python)
 
 * * *
@@ -59,6 +58,11 @@
 
 + [mysql simple sql injection](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-SQL-injection/simple-sql-injection)
 
+* * *
+
+## los rubiya problem solve
+
++ [Problem gremlin](https://github.com/kimminwyk/Study-notes/tree/master/los-rubiya-kr-problem-solving/1-gremlin)
 
 * * *
 
