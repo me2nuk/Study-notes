@@ -64,7 +64,7 @@
 
 + [Problem gremlin](https://github.com/kimminwyk/Study-notes/tree/master/los-rubiya-kr-problem-solving/1-gremlin)
 
-+ [Problem Cobole](https://github.com/kimminwyk/Study-notes/tree/master/los-rubiya-kr-problem-solving/2-cobolt)
++ [Problem Cobolt](https://github.com/kimminwyk/Study-notes/tree/master/los-rubiya-kr-problem-solving/2-cobolt)
 <br><br>
 
 * * *
