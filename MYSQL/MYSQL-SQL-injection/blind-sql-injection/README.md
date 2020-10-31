@@ -17,7 +17,7 @@ data -> ("admin","password"),("guest","guest")
 SELECT * FROM member WHERE id='' and pw='';
 ```
 위의 sql 쿼리로 login 을 체크할 시에
-python 으로 blind sql injection 로 예를 든다면
+python 으로 blind sql injection 예를 든다면
 
 ```py
 import requests
