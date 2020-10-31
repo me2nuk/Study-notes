@@ -65,6 +65,7 @@
 + [Problem gremlin](https://github.com/kimminwyk/Study-notes/tree/master/los-rubiya-kr-problem-solving/1-gremlin)
 
 + [Problem Cobole](https://github.com/kimminwyk/Study-notes/tree/master/los-rubiya-kr-problem-solving/2-cobolt)
+<br><br>
 
 * * *
 
@@ -72,4 +73,5 @@ __각 언어들의 문법, 시큐리티 코딩, 해킹 기법, 쿼리 등을 작
 
 
 만약에 잘못된 구문 또는 오타가 있다면 연락 부탁드립니다.
+
 __kimtong6451@gmail.com__
