@@ -32,6 +32,8 @@
 
 + [python](https://github.com/kimminwyk/Study-notes/tree/master/Python)
 
++ [python 함수 정의](https://github.com/kimminwyk/Study-notes/tree/master/Python/Python-def)
+
 + [python-Flask](https://github.com/kimminwyk/Study-notes/tree/master/Python/Python-Flask)
 
 * * *
