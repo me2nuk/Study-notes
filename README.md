@@ -1,30 +1,6 @@
 # Study Notes
 
-<!--
-|다루는 언어|
-|:---|
-| C | 
-| JS |
-| PHP |
-| CSS |
-| HTML |
-| python |
-| Node.js |
-| python-flask |
-| JS-Jquery |
-| db - Mysql |
-| db - MariaDB |
-| 한국어 |
-| 한영어 |
--->
-<br><br><br>
-다루는 언어
-
-### C, Js, php , css ,Html , Python , Node.js , Python-flask , Js-Jquery
-
-다루는 db 
-
-### Mysql , maria , mongo
+<br>
 
 <br>
 
