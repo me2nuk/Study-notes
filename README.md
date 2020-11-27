@@ -26,7 +26,7 @@
 
 * * *
 
-## Sql injection
+## MySql injection
 
 + [mysql blind sql injection](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-SQL-injection/time-based-sql-injection)
 
@@ -36,7 +36,10 @@
 
 + [mysql time-based blind sql injection](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-SQL-injection/time-based-blind-sql-injection)
 
++ [mysql union based sql injection](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-SQL-injection/union-sql-injection)
+
 + [mysql simple sql injection](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-SQL-injection/simple-sql-injection)
+
 
 * * *
 
