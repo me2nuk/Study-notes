@@ -214,6 +214,9 @@ SELECT * FROM UserDB WHERE id='' UNION SELECT version(),2 --'';
 
 이처럼 자신이 사용하고있는 데이터베이스의 버전을 쉽게 탈취할 수 있다.
 
+* * *
+<br>
+
 ### UNION Sql injection python script
 
 만약에 union sql injection를 이용하더라도 모든 데이터를 뽑아오고 싶을 경우에는
