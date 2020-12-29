@@ -19,30 +19,30 @@ hello() 함수를 호출 시 helloworld를 출력한다.
 ### 함수 인자 받기
 
 ```py
->>> def factor(variable):
+>>> def factorial(variable):
 ...     print(variable)
 ...
->>> factor('helloworld')
+>>> factorial('helloworld')
 helloworld
 ```
 
-factor 함수를 정의하면서 variable이라는 매개변수로 인자를 받아
+factorial 함수를 정의하면서 variable이라는 매개변수로 인자를 받아
 
 vriable 변수를 출력한다.
 
 ### 기본 인자 값
 
 ```py
->>> def function(hello = 'hello'):
+>>> def factorial(hello = 'hello'):
 ...     print(hello)
 ...
->>> function('world')
+>>> factorial('world')
 world
->>> function()
+>>> factorial()
 hello
 ```
 
-function 이라는 함수에 hello이란 매개변수의 기본값이 'hello'로 정의되어있기 때문에
+factorial 이라는 함수에 hello이란 매개변수의 기본값이 'hello'로 정의되어있기 때문에
 
 hello 변수에 인자를 안 넣어도 hello 가 출력된다.
 
