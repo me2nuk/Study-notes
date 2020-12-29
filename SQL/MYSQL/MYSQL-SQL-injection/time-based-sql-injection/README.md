@@ -55,11 +55,11 @@ SELECT * FROM member WHERE id='' or 1=1 and (SELECT count(*) FROM information_sc
 
 <br>
 
-### MySQL 시간 지연 우회
+## MySQL 시간 지연 우회
 
 * * *
 
-#### sleep()
+### sleep()
 
 __sleep() 함수는 사용할시에 시간지연을 시킨다.__
 
@@ -74,7 +74,7 @@ sleep() 함수는 정속적으로 지연되면 True
 
 * * *
 
-#### benchmark()
+### benchmark()
 
 __benchmark() 함수는 특정 연산 또는 구문을 반복시킨다.__
 
@@ -87,7 +87,7 @@ menchmark(반복할 개수, 연산)
 <br>
 
 * * *
-#### information_schema.columns
+### information_schema.columns
 
 해당 쿼리는 수많은 컬럼들을 COUNT(*) 로 한번에
 
