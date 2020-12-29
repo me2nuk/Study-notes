@@ -19,6 +19,6 @@ PHP , C , C++ , C# , Python, java , 루비 등등의 언어를지원한다.
 
 MYSQL 관련은 밑의 링크에 있는 문서를 참고하면 좋다.
 
-+ [mysql query](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-Query)
++ [mysql query](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-Query)
 
-+ [mysql sql injection](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-SQL-injection)
++ [mysql sql injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection)
