@@ -22,23 +22,23 @@
 
 ## Mysql
 
-+ [mysql query](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-Query)
++ [mysql query](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-Query)
 
 * * *
 
 ## MySql injection
 
-+ [mysql blind sql injection](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-SQL-injection/time-based-sql-injection)
++ [mysql blind sql injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/time-based-sql-injection)
 
-+ [mysql blind sql injection python scrpit](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-SQL-injection/blind-sql-injection)
++ [mysql blind sql injection python scrpit](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/blind-sql-injection)
 
-+ [mysql blind sql injection node script](https://github.com/kimminwyk/Study-notes/blob/master/MYSQL/MYSQL-SQL-injection/blind-sql-injection/blind-sql-injection-node_js-script.md)
++ [mysql blind sql injection node script](https://github.com/kimminwyk/Study-notes/blob/master/SQL/MYSQL/MYSQL-SQL-injection/blind-sql-injection/blind-sql-injection-node_js-script.md)
 
-+ [mysql time-based blind sql injection](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-SQL-injection/time-based-blind-sql-injection)
++ [mysql time-based blind sql injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/time-based-blind-sql-injection)
 
-+ [mysql union based sql injection](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-SQL-injection/union-sql-injection)
++ [mysql union based sql injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/union-sql-injection)
 
-+ [mysql simple sql injection](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-SQL-injection/simple-sql-injection)
++ [mysql simple sql injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/simple-sql-injection)
 
 
 * * *

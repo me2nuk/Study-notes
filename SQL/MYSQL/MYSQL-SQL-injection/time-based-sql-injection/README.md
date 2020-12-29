@@ -44,6 +44,8 @@ time-based sql injection 쿼리를 만든다면
 이렇게 완성된다.
 ```sql
 
+SELECT * FROM member WHERE id='' or sleep(10);
+
 SELECT * FROM member WHERE id='' or 1=1 and sleep(10);
 
 SELECT * FROM member WHERE id='' or 1=1 and benchmark(73900000*10,md5(1));
@@ -51,7 +53,13 @@ SELECT * FROM member WHERE id='' or 1=1 and benchmark(73900000*10,md5(1));
 SELECT * FROM member WHERE id='' or 1=1 and (SELECT count(*) FROM information_schema.columns A, information_schema.columns B);
 ```
 
-### sleep()
+<br>
+
+### MySQL 시간 지연 우회
+
+* * *
+
+#### sleep()
 
 __sleep() 함수는 사용할시에 시간지연을 시킨다.__
 
@@ -60,7 +68,13 @@ sleep(지연시키고싶은 시간(초 단위))
 sleep() 함수는 정속적으로 지연되면 True 
 그렇지 않다면 False 를 반환한다.
 
-### benchmark()
+* sleep 함수의 지연되는 시간 단위는 각 운영체제의 설정에 따라 다를 수 있다.
+
+<br>
+
+* * *
+
+#### benchmark()
 
 __benchmark() 함수는 특정 연산 또는 구문을 반복시킨다.__
 
@@ -70,10 +84,12 @@ menchmark(반복할 개수, 연산)
 
 반복하는 과정에서 시간지연이 생기게 된다.
 
+<br>
 
-### information_schema.columns
+* * *
+#### information_schema.columns
 
-해당 쿼리는 수많은 컬럼들을 COUNT(*) 로 한번에 불러오다보니깐
+해당 쿼리는 수많은 컬럼들을 COUNT(*) 로 한번에
 
 불러오는 과정에서 시간지연이 생기게 되버린다.
 
@@ -85,7 +101,9 @@ menchmark(반복할 개수, 연산)
 
 약 42 초가 걸리게 된다.
 
+<br>
 
+* * *
 
 ### 마무리
 

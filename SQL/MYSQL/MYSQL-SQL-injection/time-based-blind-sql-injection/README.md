@@ -10,6 +10,8 @@ blind sql injection 하고 서로 응용하면서 사용하는 기법이다.
 
 확인하는 것이다.
 
+<br>
+
 __예 db 구조__
 ```sql
 databases -> test
@@ -47,6 +49,8 @@ __밑의 링크를 읽어보지않거나 공격 기법을 모르면 참고해도
 
 + [자세한 blind sqli python script](https://github.com/kimminwyk/Study-notes/blob/master/MYSQL/MYSQL-SQL-injection/blind-sql-injection/blind-sql-injection-python-script.md)
 
+<br>
+
 ```sql
 SELECT * FROM member WHERE id='' and pw=''
 ```
@@ -81,6 +85,8 @@ for length in range(1,100):
 그리고 sleep() 같은 함수를 굳이 사용하지않아도
 
 time based sql injection 에서 필터링시에 우회할수있는 쿼리나 함수를 추가하면 된다.
+
+<br>
 
 ### 마무리
 

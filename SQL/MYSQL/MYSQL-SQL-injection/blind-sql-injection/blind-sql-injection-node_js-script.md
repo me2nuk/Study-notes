@@ -61,7 +61,7 @@ const Webrequest = function(url, methodCheck = 'get', params = null, headers = n
 }
 
 for (var j = 0; j < 1; j++) {
-    Webrequest(url = 'https://nebori.tistory.com/13', methodCheck = 'post');
+    Webrequest(url = 'https://www.google.com', methodCheck = 'post');
 }
 ```
 

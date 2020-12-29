@@ -182,6 +182,10 @@ SELECT * FROM UserDB WHERE id='' UNION SELECT (SELECT column_name FROM informati
 
 WHERE 만 없어주면은 가능하다.
 
+* * *
+
+<br>
+
 ### UNION Sql injection GET Columns Deta
 
 자신이 원하는 테이블의 데이터를 빼오기 위해서는 사전에
@@ -235,3 +239,10 @@ for i in range(1,100):
 이런식으로 limit n,n 을 이용하셔 for 를 돌리면서 1씩 늘리고 자신이 원하는 모든 데이터를 뽑아올 수 있다.
 
 테이블 , 컬럼 , 데이터베이스는 위의 python 스크립트에서 select id from userdb 부분만 자신이 원하는 구문으로 바꾸면 된다.
+
+
+### 마무리
+
+union SQL injection 기법은
+
+다른 SQL injection 기법중 정보를 가져오기 제일 수월한 기법이다.
