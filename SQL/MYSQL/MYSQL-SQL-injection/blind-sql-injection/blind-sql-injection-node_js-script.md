@@ -11,7 +11,7 @@ node.js 은 구현하면 저렇게 되지만
 
 자세한 blind sql injection query는 밑의 링크 참고
 
-[blind sql injection python script](https://github.com/kimminwyk/Study-notes/blob/master/MYSQL/MYSQL-SQL-injection/blind-sql-injection/blind-sql-injection-python-script.md "python script")
+[blind sql injection python script](https://github.com/kimminwyk/Study-notes/blob/master/SQL/MYSQL/MYSQL-SQL-injection/blind-sql-injection/blind-sql-injection-python-script.md "python script")
 
 
 ### request module

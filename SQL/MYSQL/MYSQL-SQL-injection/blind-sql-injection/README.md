@@ -39,9 +39,9 @@ for length in range(1,100):
 
 위의 python script 말고도 보고싶으면 밑의 링크에서 참고하면 좋다.
 
-+ [blind sqli python script](https://github.com/kimminwyk/Study-notes/blob/master/MYSQL/MYSQL-SQL-injection/blind-sql-injection/blind-sql-injection-python-script.md)
++ [blind sqli python script](https://github.com/kimminwyk/Study-notes/blob/master/SQL/MYSQL/MYSQL-SQL-injection/blind-sql-injection/blind-sql-injection-python-script.md)
 
-+ [blind sqli node.js script](https://github.com/kimminwyk/Study-notes/blob/master/MYSQL/MYSQL-SQL-injection/blind-sql-injection/blind-sql-injection-node_js-script.md)
++ [blind sqli node.js script](https://github.com/kimminwyk/Study-notes/blob/master/SQL/MYSQL/MYSQL-SQL-injection/blind-sql-injection/blind-sql-injection-node_js-script.md)
 
 
 다음과 같은 예로 data 라는 변수에 dict 형식으로 

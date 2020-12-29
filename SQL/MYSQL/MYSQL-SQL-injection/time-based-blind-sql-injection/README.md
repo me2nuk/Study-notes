@@ -43,11 +43,11 @@ requests 같은 모듈로 HTTP POST 또는 GET 방식으로
 
 __밑의 링크를 읽어보지않거나 공격 기법을 모르면 참고해도 좋다.__
 
-+ [time based sql injection 이란?](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-SQL-injection/time-based-sql-injection)
++ [time based sql injection 이란?](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/time-based-sql-injection)
 
-+ [blind sql injection 이란?](https://github.com/kimminwyk/Study-notes/tree/master/MYSQL/MYSQL-SQL-injection/blind-sql-injection)
++ [blind sql injection 이란?](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/blind-sql-injection)
 
-+ [자세한 blind sqli python script](https://github.com/kimminwyk/Study-notes/blob/master/MYSQL/MYSQL-SQL-injection/blind-sql-injection/blind-sql-injection-python-script.md)
++ [자세한 blind sqli python script](https://github.com/kimminwyk/Study-notes/blob/master/SQL/MYSQL/MYSQL-SQL-injection/blind-sql-injection/blind-sql-injection-python-script.md)
 
 <br>
 
