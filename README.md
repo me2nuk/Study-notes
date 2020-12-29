@@ -20,25 +20,29 @@
 
 * * *
 
-## Mysql
++ ## SQL
 
-+ [mysql query](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-Query)
+    + [SQL](https://github.com/kimminwyk/Study-notes/tree/master/SQL/)
 
-* * *
+    + ### Mysql
 
-## MySql injection
+      + [MySQL query](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-Query)
 
-+ [mysql blind sql injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/time-based-sql-injection)
+    <br>
 
-+ [mysql blind sql injection python scrpit](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/blind-sql-injection)
+    + ### MySql injection
 
-+ [mysql blind sql injection node script](https://github.com/kimminwyk/Study-notes/blob/master/SQL/MYSQL/MYSQL-SQL-injection/blind-sql-injection/blind-sql-injection-node_js-script.md)
+      + [MySQL blind SQL injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/time-based-sql-injection)
 
-+ [mysql time-based blind sql injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/time-based-blind-sql-injection)
+      + [MySQL blind SQL injection python scrpit](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/blind-sql-injection)
 
-+ [mysql union based sql injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/union-sql-injection)
+      + [MySQL blind SQL injection node script](https://github.com/kimminwyk/Study-notes/blob/master/SQL/MYSQL/MYSQL-SQL-injection/blind-sql-injection/blind-sql-injection-node_js-script.md)
 
-+ [mysql simple sql injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/simple-sql-injection)
+      + [MySQL time-based blind SQL injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/time-based-blind-sql-injection)
+
+      + [MySQL union based SQL injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/union-sql-injection)
+
+      + [MySQL simple SQL injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/simple-sql-injection)
 
 
 * * *
