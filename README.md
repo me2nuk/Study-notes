@@ -51,15 +51,15 @@
 
 ## los rubiya problem solve
 
-+ [Problem Gremlin](https://github.com/kimminwyk/Study-notes/tree/master/los-rubiya-kr-problem-solving/1-gremlin)
++ [Problem Gremlin](https://github.com/kimminwyk/Study-notes/tree/master/los.rubiya.kr-problem-solving/1-gremlin)
 
-+ [Problem Cobolt](https://github.com/kimminwyk/Study-notes/tree/master/los-rubiya-kr-problem-solving/2-cobolt)
++ [Problem Cobolt](https://github.com/kimminwyk/Study-notes/tree/master/los.rubiya.kr-problem-solving/2-cobolt)
 
-+ [Problem Goblin](https://github.com/kimminwyk/Study-notes/tree/master/los-rubiya-kr-problem-solving/3-goblin)
++ [Problem Goblin](https://github.com/kimminwyk/Study-notes/tree/master/los.rubiya.kr-problem-solving/3-goblin)
 
-+ [Problem Orc](https://github.com/kimminwyk/Study-notes/tree/master/los-rubiya-kr-problem-solving/4-orc)
++ [Problem Orc](https://github.com/kimminwyk/Study-notes/tree/master/los.rubiya.kr-problem-solving/4-orc)
 
-+ [Problem Wolfman](https://github.com/kimminwyk/Study-notes/tree/master/los-rubiya-kr-problem-solving/5-wolfman)
++ [Problem Wolfman](https://github.com/kimminwyk/Study-notes/tree/master/los.rubiya.kr-problem-solving/5-wolfman)
 
 <br><br>
 
