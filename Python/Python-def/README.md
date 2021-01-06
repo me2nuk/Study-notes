@@ -107,6 +107,7 @@ a = 'a' , b = 'b' , c = 'c' 는 **keywords 변수게 들어가게 된다.
 
 ![def function image](./image/dict_tuple.png)
 
+
 이런 식으로 전달된다.
 
 ### 특수 매개 변수
