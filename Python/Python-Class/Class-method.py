@@ -259,3 +259,12 @@ class PythonClassMetHodList:
     
     def __hex__(self):
         return hex(self.SlefNumber)
+
+def arg(*args):
+    return args
+
+def kwds(**keywords):
+    return keywords
+
+print(arg('HelloWorld'))
+print(kwds(variable = 'HelloWorld'))
