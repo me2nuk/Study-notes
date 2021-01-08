@@ -311,22 +311,60 @@ lambda 인자 : 결과
 
 그리고 lambda를 좀더 효율적으로 사용하기 위해서는 다양한 방법이 존재한다. 
 
-다양한 활용법은 밑의 숙제를 풀이한다고 예시를 들어본다.
+```py
+>>> (lambda *args : args)('a','b','c','d')
+('a', 'b', 'c', 'd')
+>>>
+>>>
+>>> (lambda **keywords : keywords)(a = 'test a',b = 'test b',c = 'test c',d = 'test d')
+{'a': 'test a', 'b': 'test b', 'c': 'test c', 'd': 'test d'}
+>>>
+>>>
+>>> (lambda * , a : a)(a = 'a')
+'a'
+>>>
+>>>
+>>> (lambda * , a : a)('a')
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: <lambda>() takes 0 positional arguments but 1 was given
+>>>
+>>>
+>>> (lambda  a , / : a)('a')
+'a'
+>>>
+>>>
+>>> (lambda  a , / : a)(a = 'a')
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: <lambda>() got some positional-only arguments passed as keyword arguments: 'a'
+>>>
+```
 
-+ 1. n 을 인자로받아 n만큼 반복하면서 리스트를 만들고 해당 리스트 요소의 합을 구하시오
+이렇게 일부 기능인 Positional keyword , *args , **keywords 등 다양한 기능이 사용 가능하다.
+
+그리고 람다 함수를 이용하여 문제를 한번 풀어볼것이다.
+
+<br>
+
+> 1. n 을 인자로받아 n만큼 반복하면서 리스트를 만들고 해당 리스트 요소의 합을 구하시오
 
 리스트 예시 
-input : 5
-output [1,2,3,4,5] : 15
+__input__ : 5
+__output [1,2,3,4,5]__ : 15
 
-+ 2. n 을 입력받아 n만큼 반복하여 n단까지 구구단을 출력한다
+* * *
 
-input : 5
-output :
+> 2. n 을 입력받아 n만큼 반복하여 n단까지 구구단을 출력한다
+
+__input__ : 5
+__output__ :
 1 * 1 = 1
 1 * 2 = 2
 ...
 5 * 9 = 45
+
+<br>
 
 ##### 1번 문제
 
@@ -335,6 +373,8 @@ output :
 5
 10
 ```
+
+<br>
 
 ##### 2번 문제
 
@@ -353,6 +393,8 @@ output :
 5 * 8 = 40
 5 * 9 = 45
 ```
+
+<br>
 
 이런식으로 람다 표현식을 이용하여 구구단과 리스트 합을 한줄로 쉽게 만들었다.
 
