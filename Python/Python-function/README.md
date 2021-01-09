@@ -152,7 +152,7 @@ TypeError: one() got some positional-only arguments passed as keyword arguments:
 
 그리고 인자 생성할 때 
 ```py
-def <원하는 변수 이름>(<원하는 인자 이름>, / ):
+def <원하는 함수 이름>(<원하는 인자 이름>, / ):
 ```
 
 이런식으로 하면 된다.
