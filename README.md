@@ -68,6 +68,36 @@
 
 * * *
 
+# Language-Code
+
+My language Learning File Soure Code
+
+### Python
+
++ [Dict](https://github.com/kimminwyk/Language-Learning/blob/main/python/Dict.py)
+
++ [def](https://github.com/kimminwyk/Language-Learning/blob/main/python/def.py)
+
++ [lambda](https://github.com/kimminwyk/Language-Learning/blob/main/python/lambda.py)
+
++ [decorator](https://github.com/kimminwyk/Language-Learning/blob/main/python/decorator.py)
+
++ __module__
+
+    + [threading](https://github.com/kimminwyk/Language-Learning/blob/main/python/_threading/)
+
+    + [requests](https://github.com/kimminwyk/Language-Learning/blob/main/python/_requests/)
+
+### JS
+
++ [canvas1](https://github.com/kimminwyk/Language-Learning/tree/main/JS/canvas1)
+
++ [canvas2](https://github.com/kimminwyk/Language-Learning/tree/main/JS/canvas2)
+
+* * *
+
+<br><br>
+
 __각 언어들의 문법, 시큐리티 코딩, 해킹 기법, 쿼리 등을 작성하고 각 언어들마다 요약하여 정리했습니다.__
 
 
