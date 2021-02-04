@@ -1,76 +1,25 @@
-# Study Notes
+# Language-Learning
 
-<br>
+My language Learning File Soure Code
 
-<br>
+### Python
 
-## python
++ [Dict](https://github.com/kimminwyk/Language-Learning/blob/main/python/Dict.py)
 
-+ [python](https://github.com/kimminwyk/Study-notes/tree/master/Python)
++ [def](https://github.com/kimminwyk/Language-Learning/blob/main/python/def.py)
 
-+ [python 함수 정의](https://github.com/kimminwyk/Study-notes/tree/master/Python/Python-function)
-<!-- 현재 작성중
-+ [Python Class](https://github.com/kimminwyk/Study-notes/tree/master/Python/Python-Class/)
--->
++ [lambda](https://github.com/kimminwyk/Language-Learning/blob/main/python/lambda.py)
 
-+ [python-Flask](https://github.com/kimminwyk/Study-notes/tree/master/Python/Python-Flask)
++ [decorator](https://github.com/kimminwyk/Language-Learning/blob/main/python/decorator.py)
 
-* * *
++ __module__
 
-## node.js
+    + [threading](https://github.com/kimminwyk/Language-Learning/blob/main/python/_threading/)
 
-+ [node.js request module](https://github.com/kimminwyk/Study-notes/tree/master/Node.js/request)
+    + [requests](https://github.com/kimminwyk/Language-Learning/blob/main/python/_requests/)
 
-* * *
+### JS
 
-+ ## SQL
++ [canvas1](https://github.com/kimminwyk/Language-Learning/tree/main/JS/canvas1)
 
-    + [SQL](https://github.com/kimminwyk/Study-notes/tree/master/SQL/)
-
-    + ### Mysql
-
-      + [MySQL query](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-Query)
-
-    <br>
-
-    + ### MySql injection
-
-      + [MySQL simple SQL injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/simple-sql-injection)
-
-      + [MySQL blind SQL injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/time-based-sql-injection)
-
-      + [MySQL blind SQL injection python scrpit](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/blind-sql-injection)
-
-      + [MySQL blind SQL injection node script](https://github.com/kimminwyk/Study-notes/blob/master/SQL/MYSQL/MYSQL-SQL-injection/blind-sql-injection/blind-sql-injection-node_js-script.md)
-
-      + [MySQL Time-based SQL injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/time-based-sql-injection)
-
-      + [MySQL time-based blind SQL injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/time-based-blind-sql-injection)
-
-      + [MySQL union based SQL injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/union-sql-injection)
-
-
-* * *
-
-## los rubiya problem solve
-
-+ [Problem Gremlin](https://github.com/kimminwyk/Study-notes/tree/master/los.rubiya.kr-problem-solving/1-gremlin)
-
-+ [Problem Cobolt](https://github.com/kimminwyk/Study-notes/tree/master/los.rubiya.kr-problem-solving/2-cobolt)
-
-+ [Problem Goblin](https://github.com/kimminwyk/Study-notes/tree/master/los.rubiya.kr-problem-solving/3-goblin)
-
-+ [Problem Orc](https://github.com/kimminwyk/Study-notes/tree/master/los.rubiya.kr-problem-solving/4-orc)
-
-+ [Problem Wolfman](https://github.com/kimminwyk/Study-notes/tree/master/los.rubiya.kr-problem-solving/5-wolfman)
-
-<br><br>
-
-* * *
-
-__각 언어들의 문법, 시큐리티 코딩, 해킹 기법, 쿼리 등을 작성하고 각 언어들마다 요약하여 정리했습니다.__
-
-
-만약에 잘못된 구문 또는 오타가 있다면 연락 부탁드립니다.
-
-__kimtong6451@gmail.com__
++ [canvas2](https://github.com/kimminwyk/Language-Learning/tree/main/JS/canvas2)
