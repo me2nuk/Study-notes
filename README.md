@@ -12,6 +12,11 @@ __지금까지 배우면서 학습한 내용을 작성__
 + [MySQL](#MySQL)
 + [los.rubiy.kr](#los-rubiya-problem-solve)
 
++ [Language Learning Source Code](#Language-Code)
+
+  + [python](#python-1)
+  + [JS](#JS)
+
 <br>
 
 ## python
