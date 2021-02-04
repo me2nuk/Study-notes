@@ -15,13 +15,9 @@
 
 + [python-Flask](https://github.com/kimminwyk/Study-notes/tree/master/Python/Python-Flask)
 
-* * *
-
 ## node.js
 
 + [node.js request module](https://github.com/kimminwyk/Study-notes/tree/master/Node.js/request)
-
-* * *
 
 + ## SQL
 
@@ -48,9 +44,6 @@
       + [MySQL time-based blind SQL injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/time-based-blind-sql-injection)
 
       + [MySQL union based SQL injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/union-sql-injection)
-
-
-* * *
 
 ## los rubiya problem solve
 
