@@ -9,7 +9,8 @@ __지금까지 배우면서 학습한 내용을 작성__
 + [python](#python)
 + [node.js](#node.js)
 + [sql](#sql)
-+ [los.rubiy.kr](#los%20rubiya%20problem%20solve)
++ [MySQL](#MySQL)
++ [los.rubiy.kr](#los-rubiya-problem-solve)
 
 <br>
 
@@ -84,7 +85,7 @@ My language Learning File Soure Code
 
 + [decorator](https://github.com/kimminwyk/Study-notes/blob/Language-code/python/decorator.py)
 
-+ __module__
++ #### module
 
     + [threading](https://github.com/kimminwyk/Study-notes/blob/Language-code/python/_threading/)
 
