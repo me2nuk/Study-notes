@@ -38,9 +38,9 @@ __지금까지 배우면서 학습한 내용을 작성__
 
 + ### Mysql
 
-  + [MySQL query](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-Query)
-
   <br>
+
+  + [MySQL query](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-Query)
 
   + ### MySql injection
 
