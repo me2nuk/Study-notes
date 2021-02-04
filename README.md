@@ -74,25 +74,25 @@ My language Learning File Soure Code
 
 ### Python
 
-+ [Dict](https://github.com/kimminwyk/Language-Learning/blob/main/python/Dict.py)
++ [Dict](https://github.com/kimminwyk/Study-notes/blob/Language-code/python/Dict.py)
 
-+ [def](https://github.com/kimminwyk/Language-Learning/blob/main/python/def.py)
++ [def](https://github.com/kimminwyk/Study-notes/blob/Language-code/python/def.py)
 
-+ [lambda](https://github.com/kimminwyk/Language-Learning/blob/main/python/lambda.py)
++ [lambda](https://github.com/kimminwyk/Study-notes/blob/Language-code/python/lambda.py)
 
-+ [decorator](https://github.com/kimminwyk/Language-Learning/blob/main/python/decorator.py)
++ [decorator](https://github.com/kimminwyk/Study-notes/blob/Language-code/python/decorator.py)
 
 + __module__
 
-    + [threading](https://github.com/kimminwyk/Language-Learning/blob/main/python/_threading/)
+    + [threading](https://github.com/kimminwyk/Study-notes/blob/Language-code/python/_threading/)
 
-    + [requests](https://github.com/kimminwyk/Language-Learning/blob/main/python/_requests/)
+    + [requests](https://github.com/kimminwyk/Study-notes/blob/Language-code/python/_requests/)
 
 ### JS
 
-+ [canvas1](https://github.com/kimminwyk/Language-Learning/tree/main/JS/canvas1)
++ [canvas1](https://github.com/kimminwyk/Study-notes/blob/Language-code/JS/canvas1)
 
-+ [canvas2](https://github.com/kimminwyk/Language-Learning/tree/main/JS/canvas2)
++ [canvas2](https://github.com/kimminwyk/Study-notes/blob/Language-code/JS/canvas2)
 
 * * *
 
