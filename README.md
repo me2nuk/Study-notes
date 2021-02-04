@@ -2,6 +2,14 @@
 
 <br>
 
+__지금까지 배우면서 학습한 내용을 작성__
+
+## 작성된 언어
+
++ python
++ node.js
++ sql
+
 <br>
 
 ## python
@@ -15,35 +23,33 @@
 
 + [python-Flask](https://github.com/kimminwyk/Study-notes/tree/master/Python/Python-Flask)
 
+<br>
+
 ## node.js
 
 + [node.js request module](https://github.com/kimminwyk/Study-notes/tree/master/Node.js/request)
 
-+ ## SQL
+## SQL
 
-    + [SQL](https://github.com/kimminwyk/Study-notes/tree/master/SQL/)
++ [SQL](https://github.com/kimminwyk/Study-notes/tree/master/SQL/)
 
-    + ### Mysql
++ ### Mysql
 
-      + [MySQL query](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-Query)
+  + [MySQL query](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-Query)
 
-    <br>
+  <br>
 
-    + ### MySql injection
+  + ### MySql injection
 
-      + [MySQL simple SQL injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/simple-sql-injection)
+    + [MySQL simple SQL injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/simple-sql-injection)
+    + [MySQL blind SQL injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/time-based-sql-injection)
+    + [MySQL blind SQL injection python scrpit](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/blind-sql-injection)
+    + [MySQL blind SQL injection node script](https://github.com/kimminwyk/Study-notes/blob/master/SQL/MYSQL/MYSQL-SQL-injection/blind-sql-injection/blind-sql-injection-node_js-script.md)
+    + [MySQL Time-based SQL injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/time-based-sql-injection)
+    + [MySQL time-based blind SQL injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/time-based-blind-sql-injection)
+    + [MySQL union based SQL injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/union-sql-injection)
 
-      + [MySQL blind SQL injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/time-based-sql-injection)
-
-      + [MySQL blind SQL injection python scrpit](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/blind-sql-injection)
-
-      + [MySQL blind SQL injection node script](https://github.com/kimminwyk/Study-notes/blob/master/SQL/MYSQL/MYSQL-SQL-injection/blind-sql-injection/blind-sql-injection-node_js-script.md)
-
-      + [MySQL Time-based SQL injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/time-based-sql-injection)
-
-      + [MySQL time-based blind SQL injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/time-based-blind-sql-injection)
-
-      + [MySQL union based SQL injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/union-sql-injection)
+<br>
 
 ## los rubiya problem solve
 
@@ -61,7 +67,9 @@
 
 * * *
 
-# Language-Code
+<br>
+
+## Language-Code
 
 My language Learning File Soure Code
 
@@ -90,9 +98,6 @@ My language Learning File Soure Code
 * * *
 
 <br><br>
-
-__각 언어들의 문법, 시큐리티 코딩, 해킹 기법, 쿼리 등을 작성하고 각 언어들마다 요약하여 정리했습니다.__
-
 
 만약에 잘못된 구문 또는 오타가 있다면 연락 부탁드립니다.
 
