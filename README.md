@@ -19,7 +19,7 @@ __지금까지 배우면서 학습한 내용을 작성__
 
 <br>
 
-## python
+### python
 
 + [python](https://github.com/kimminwyk/Study-notes/tree/master/Python)
 
@@ -32,21 +32,21 @@ __지금까지 배우면서 학습한 내용을 작성__
 
 <br>
 
-## node.js
+### node.js
 
 + [node.js request module](https://github.com/kimminwyk/Study-notes/tree/master/Node.js/request)
 
 <br>
 
-## SQL
+### SQL
 
 + [SQL](https://github.com/kimminwyk/Study-notes/tree/master/SQL/)
 
-+ ### Mysql
++ #### Mysql
 
   + [MySQL query](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-Query)
 
-  + ### MySql injection
+  + #### MySql injection
 
     + [MySQL simple SQL injection](https://github.com/kimminwyk/Study-notes/tree/master/SQL/MYSQL/MYSQL-SQL-injection/simple-sql-injection)
 
@@ -64,7 +64,7 @@ __지금까지 배우면서 학습한 내용을 작성__
 
 <br>
 
-## los rubiya problem solve
+### los rubiya problem solve
 
 + [Problem Gremlin](https://github.com/kimminwyk/Study-notes/tree/master/los.rubiya.kr-problem-solving/1-gremlin)
 
@@ -82,7 +82,7 @@ __지금까지 배우면서 학습한 내용을 작성__
 
 <br>
 
-## Language-Code
+# Language-Code
 
 My language Learning File Soure Code
 
@@ -96,13 +96,13 @@ My language Learning File Soure Code
 
 + [decorator](https://github.com/kimminwyk/Study-notes/blob/Language-code/python/decorator.py)
 
-+ ### module
++ #### module
 
     + [threading](https://github.com/kimminwyk/Study-notes/blob/Language-code/python/_threading/)
 
     + [requests](https://github.com/kimminwyk/Study-notes/blob/Language-code/python/_requests/)
 
-### JS
+### js
 
 + [canvas1](https://github.com/kimminwyk/Study-notes/blob/Language-code/JS/canvas1)
 
